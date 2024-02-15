@@ -1,6 +1,6 @@
 👋 Hi, I'm Mohammad Tanweer Salah!
 
-🎓 I'm currently pursuing an MSc in Artificial Intelligence at IU International Hochschule Berlin. My passion lies in the field of AI and its applications, and I'm eager to contribute to innovative projects in this domain.
+🎓 I'm currently pursuing an MSc in Artificial Intelligence at Universitat zu Lubeck, Lubeck. My passion lies in the field of AI and its applications, and I'm eager to contribute to innovative projects in this domain.
 
 💻 With over 2.5 years of professional experience as a software developer, I honed my skills while working at Tata Consultancy Services in India. During my tenure, I had the opportunity to collaborate with Vision Works of America, a prominent client.
 
