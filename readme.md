@@ -6,9 +6,11 @@
 
 🚀 Proficient in Python, with expertise in TensorFlow, PyTorch, and various NLP & LLM tools including LangChain, HuggingFace, and AWS Bedrock. Skilled in developing robust and scalable machine learning solutions.
 
-🔧 Currently working as a Research Assistant at Fraunhofer IPK, Berlin, on the Catena X project. Developing a data-driven Circular Economy Assistant to optimize End-of-Life vehicle processes using advanced statistical techniques.
+🔧 Currently working as AI Engineer at SAP, Berlin. Developing Kyma Companion an AI Assistant.
 
-💼 Previously worked at Tata Consultancy Services, where I developed machine learning models for customer segmentation and personalized product recommendations, improving sales conversion rates by 15%. Implemented a data migration pipeline resulting in annual savings of $300K.
+💼 Previously worked at as a Research Assistant at Fraunhofer IPK, Berlin, on the Catena X project. Developing a data-driven Circular Economy Assistant to optimize End-of-Life vehicle processes using advanced statistical techniques. 
+
+💼 worked for Tata Consultancy Services, where I developed machine learning models for customer segmentation and personalized product recommendations, improving sales conversion rates by 15%. Implemented a data migration pipeline resulting in annual savings of $300K.
 
 🧩 Strong problem-solving skills demonstrated through various projects, including TanGPT (a ChatGPT clone), YouTube Video and Webpage Summarizer, and a PDF RAG Q&A App. Experienced in tackling complex challenges using machine learning algorithms and NLP techniques.
 
