@@ -2,7 +2,7 @@
 
 🎓 I'm currently pursuing an MSc in Artificial Intelligence at Universitat zu Lübeck, Lübeck. And working as AI Engineer at SAP, Berlin. 
 
-👨‍💻 AI and Machine Learning Engineer with over 6 years of academic experience and 3.5+ years of professional experience focused on ML, NLP, Gen AI and Data Analysis. 
+👨‍💻 AI and Machine Learning Engineer with over 6 years of academic experience and 5+ years of professional experience focused on ML, NLP, Gen AI and Data Analysis. 
 
 🚀 Proficient in Python, with expertise in TensorFlow, PyTorch, and various NLP & LLM tools including LangChain, HuggingFace, and AWS Bedrock. Skilled in developing robust and scalable machine learning solutions.
 
